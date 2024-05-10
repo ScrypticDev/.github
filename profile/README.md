@@ -1,1 +1,3 @@
-<img src="LogoB.png" height="256">
+<p align="center">
+  <img src="Scryptiks.png">
+</p>
